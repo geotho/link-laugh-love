@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://geotho.github.io/link-laugh-love/static/css/main.36faa32a.css",
-    "main.js": "https://geotho.github.io/link-laugh-love/static/js/main.6c5ba90d.js",
+    "main.js": "https://geotho.github.io/link-laugh-love/static/js/main.200ee8be.js",
     "static/js/787.e8c2a67a.chunk.js": "https://geotho.github.io/link-laugh-love/static/js/787.e8c2a67a.chunk.js",
     "index.html": "https://geotho.github.io/link-laugh-love/index.html",
     "main.36faa32a.css.map": "https://geotho.github.io/link-laugh-love/static/css/main.36faa32a.css.map",
-    "main.6c5ba90d.js.map": "https://geotho.github.io/link-laugh-love/static/js/main.6c5ba90d.js.map",
+    "main.200ee8be.js.map": "https://geotho.github.io/link-laugh-love/static/js/main.200ee8be.js.map",
     "787.e8c2a67a.chunk.js.map": "https://geotho.github.io/link-laugh-love/static/js/787.e8c2a67a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.36faa32a.css",
-    "static/js/main.6c5ba90d.js"
+    "static/js/main.200ee8be.js"
   ]
 }
